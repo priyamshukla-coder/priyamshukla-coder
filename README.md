@@ -1,4 +1,4 @@
-### Hey there 👋 I am a Tech Enthusiast and passionate to learn new Tech-Stack and new Technology and implement them to build scalable products.
+### Hey there 👋
 
 <!--
 **priyamshukla-coder/priyamshukla-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
