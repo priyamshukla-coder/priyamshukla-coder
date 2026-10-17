@@ -98,11 +98,11 @@ I'm interested in leveraging **AI and automation to improve software development
 ## 🌐 Let's Get Connected
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/priyam-shukla-8a7912195/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/priyam-shukla-8a7912195/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="[https://leetcode.com](https://leetcode.com/u/Techcoder1/)/" target="_blank">
+  <a href="(https://leetcode.com/u/Techcoder1/)/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;
